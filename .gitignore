@@ -1,1 +1,11 @@
-.ipynb_checkpoints
+.idea/
+out/
+build/
+distrib-build/
+artifacts/
+.gradle/
+*.iml
+**/.ipynb*
+**/build/
+*.DS_Store
+gradle.properties
